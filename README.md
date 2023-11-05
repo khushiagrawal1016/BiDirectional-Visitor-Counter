@@ -1,5 +1,6 @@
 # BiDirectional-Visitor-Counter
-To determine the number of people present in a room by counting the number of people entering and exiting the room.
+To determine the number of people present in a room by counting the number of people entering and exiting the room.   
+
 ![image](https://github.com/khushiagrawal1016/BiDirectional-Visitor-Counter/assets/103752092/d80321c6-926c-4d57-8362-5ae5609c0df1)   
 ![image](https://github.com/khushiagrawal1016/BiDirectional-Visitor-Counter/assets/103752092/74e8f9b0-9997-4e8e-b669-1914a56d5fb8)   
 
